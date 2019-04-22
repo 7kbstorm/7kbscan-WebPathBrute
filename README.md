@@ -126,4 +126,8 @@
 
 十、双击表格内某行即调用系统默认浏览器打开当前行Url 右键可复制Url内容。
 
-十一 批量导入的Url与填写的Url都需要以 http:// https://开头的格式。
+十一 批量导入的Url与填写的Url都需要以 http:// https:// 开头的格式。
+
+
+欢迎访问我的博客 和 Secquan安全圈社区获取我们的最新动态
+https://www.7kb.org/ https://www.secquan.org/
