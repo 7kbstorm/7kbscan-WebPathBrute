@@ -1,3 +1,14 @@
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.png?raw=true)
+
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/2.png?raw=true)
+
+
+
+
+
+
+版本说明：
+
 1.6.0 版本将加入暴力爆破目录等等功能
 
 1.5.9 Beta 2019-03-22
