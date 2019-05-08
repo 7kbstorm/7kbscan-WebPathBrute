@@ -1,7 +1,8 @@
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.60.png?raw=true)
+
 ![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.png?raw=true)
 
 ![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/2.png?raw=true)
-
 
 
 
