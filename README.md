@@ -1,4 +1,4 @@
-![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.61 .png?raw=true)
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/raw/master/1.61.png)
 
 ![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.60.png?raw=true)
 
