@@ -1,3 +1,5 @@
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.61 .png?raw=true)
+
 ![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.60.png?raw=true)
 
 ![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.png?raw=true)
@@ -10,7 +12,14 @@
 
 版本说明：
 
-下次更新准备改善读取文本方式
+经过半年的实战环境内测 发现了很多问题 诸如cpu占用优化 字典变量等问题经测试后感觉问题不大 遂推后解决
+
+1.6.1 Beta 
+增加爆破模式参数 "起始长度"，使用可选择字典组合的起始长度和结束长度，如从1位爆破到3位，或从2位爆破到3位。（https://github.com/7kbstorm/7kbscan-WebPathBrute/issues/6）
+整体改为使用有界队列，修复爆破模式长度过长字典过大闪退等问题。（https://github.com/7kbstorm/7kbscan-WebPathBrute/issues/8）
+修复字典加载问题 （https://github.com/7kbstorm/7kbscan-WebPathBrute/issues/5）
+针对这个问题的更新 如果不希望自动加入 / 请不要把字典内容加入在path字典内(https://github.com/7kbstorm/7kbscan-WebPathBrute/issues/9)
+
 
 1.6.0 Beta
 加入目录暴力爆破等功能
