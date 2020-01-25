@@ -1,6 +1,6 @@
-![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/raw/master/1.61.png)
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/raw/master/1.62.png)
 
-![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.60.png?raw=true)
+![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.61.png?raw=true)
 
 ![image](https://github.com/7kbstorm/7kbscan-WebPathBrute/blob/master/1.png?raw=true)
 
@@ -12,7 +12,13 @@
 
 版本说明：
 
-经过半年的实战环境内测 发现了很多问题 诸如cpu占用优化 字典变量等问题经测试后感觉问题不大 遂推后解决
+感谢土司的Se7en发现了问题 修复该问题并根据这几天的反馈做了一些优化和改动 另外反馈的分辨率问题我会考虑重新画界面的
+
+1.6.2 Beta
+根据反馈建议 将延时模式调整为毫秒
+根据反馈建议 优化了访问协议
+修复Se7en提出的bug （我太粗心了 测试参数没删除）
+
 
 1.6.1 Beta 
 增加爆破模式参数 "起始长度"，使用可选择字典组合的起始长度和结束长度，如从1位爆破到3位，或从2位爆破到3位。（https://github.com/7kbstorm/7kbscan-WebPathBrute/issues/6）
